@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "506914199883",
+    "project_id": "fir-bitrise-from-yitelu",
+    "storage_bucket": "fir-bitrise-from-yitelu.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:506914199883:android:f2a504494cfcf7df3e30ce",
+        "android_client_info": {
+          "package_name": "com.yitelu.demo_bitrise_yi_te"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "506914199883-rfi25g7oi0fbgbbmnvm1mkeedcg78efb.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBBvlJsd-qiAXBlM1Nbb8PPSTtT4BBBZMs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "506914199883-rfi25g7oi0fbgbbmnvm1mkeedcg78efb.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
