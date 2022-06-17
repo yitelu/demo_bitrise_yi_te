@@ -5,12 +5,12 @@ plugins {
 
 android {
     namespace 'com.yitelu.demo_bitrise_yi_te'
-    compileSdk 32
+    compileSdk 31
 
     defaultConfig {
         applicationId "com.yitelu.demo_bitrise_yi_te"
         minSdk 24
-        targetSdk 32
+        targetSdk 29
         versionCode 1
         versionName "1.0"
 
